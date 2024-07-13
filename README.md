@@ -82,7 +82,7 @@ cropped_image = original_image_rgb[1500:4000, 1000:2000]
 ```
 - Operasi crop pada gambar menggunakan NumPy adalah dengan menggunakan slicing pada larik pixel gambar untuk memilih area tertentu dan menyimpannya ke dalam variabel baru. Simpelnya dengan mengambil bagian tertentu dari larik pixel, lalu ditampung ke variabel gambar dapat terpotong pada bagian yang diambil saja.
 
-***Flip Gambar**
+***Flip Gambar***
 ```
 flipped_image = cv2.flip(original_image_rgb, 1)
 ```
