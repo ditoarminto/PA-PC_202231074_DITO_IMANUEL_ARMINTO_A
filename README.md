@@ -17,11 +17,11 @@ Adapula beberapa tahapan dalam pengolahannya, adalah sebagai berikut:
 1. Penentuan gambar (dalam kasus ini gambar diri sendiri)
 2. Penentuan library
 3. Penentuan alur dari program, berikut alur yang direncanakan:
-   a. Import library
-   b. Penambahan gambar ke variable
-   c. Penampilan gambar asli dengan pixelnya (sebagai patokan penentuan parameter)
-   d. Operasi Geometrix Citra
-   e. Tampilan perbandingan semua hasil operasi
+   a. Import library<br>
+   b. Penambahan gambar ke variable<br>
+   c. Penampilan gambar asli dengan pixelnya (sebagai patokan penentuan parameter)<br>
+   d. Operasi Geometrix Citra<br>
+   e. Tampilan perbandingan semua hasil operasi<br>
 4. Implementasi
 
 ## Penjelasan Program
