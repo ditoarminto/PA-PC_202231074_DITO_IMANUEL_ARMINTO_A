@@ -16,7 +16,8 @@ Dalam dunia digital, kita banyak dipertemukan dengan banyak gambar dengan beraga
 Adapula beberapa tahapan dalam pengolahannya, adalah sebagai berikut:
 1. Penentuan gambar (dalam kasus ini gambar diri sendiri)
 2. Penentuan library
-3. Penentuan alur dari program, berikut alur yang direncanakan:
+3. Penentuan alur dari program, berikut alur yang direncanakan:<br>
+
    a. Import library<br>
    b. Penambahan gambar ke variable<br>
    c. Penampilan gambar asli dengan pixelnya (sebagai patokan penentuan parameter)<br>
